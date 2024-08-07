@@ -1,6 +1,6 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(180, 180, 241);
+    background-color:  rgb(219, 219, 243);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -27,7 +27,7 @@ img{
     margin: 25px;
 }
 
-h2{
+h1{
     font-size: 21px;
     text-align: center;
     margin-top: -10px;
